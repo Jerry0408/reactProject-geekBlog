@@ -1,0 +1,15 @@
+$isShowTab: true;
+
+body {
+  margin: 0;
+}
+#root {
+  height: 100%;
+  .App {
+    .tabbar {
+      position: fixed;
+      left: 0;
+      top: 0;
+    }
+  }
+}
